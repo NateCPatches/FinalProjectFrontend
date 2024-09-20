@@ -163,3 +163,12 @@ a.secondary {
     filter: invert();
   }
 }
+
+
+NEW PROJECT STUFF
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+

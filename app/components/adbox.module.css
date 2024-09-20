@@ -1,0 +1,8 @@
+.container {
+    border: 5px solid brown;
+}
+
+.tripleButtonContainer{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
